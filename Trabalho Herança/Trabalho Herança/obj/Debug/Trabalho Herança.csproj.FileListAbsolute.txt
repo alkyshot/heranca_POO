@@ -1,0 +1,7 @@
+C:\Users\rodri\OneDrive\Área de Trabalho\Faculdade\POO\Trabalho Herança\Trabalho Herança\bin\Debug\Trabalho Herança.exe.config
+C:\Users\rodri\OneDrive\Área de Trabalho\Faculdade\POO\Trabalho Herança\Trabalho Herança\bin\Debug\Trabalho Herança.exe
+C:\Users\rodri\OneDrive\Área de Trabalho\Faculdade\POO\Trabalho Herança\Trabalho Herança\bin\Debug\Trabalho Herança.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\Faculdade\POO\Trabalho Herança\Trabalho Herança\obj\Debug\Trabalho Herança.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Faculdade\POO\Trabalho Herança\Trabalho Herança\obj\Debug\Trabalho Herança.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Faculdade\POO\Trabalho Herança\Trabalho Herança\obj\Debug\Trabalho Herança.exe
+C:\Users\rodri\OneDrive\Área de Trabalho\Faculdade\POO\Trabalho Herança\Trabalho Herança\obj\Debug\Trabalho Herança.pdb
